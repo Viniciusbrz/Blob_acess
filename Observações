@@ -1,0 +1,6 @@
+Não achei ético colocar juntamente a documentação ferramentas que realizem exploração de Blob's com falha de configuração ou permissões excessivas, porém existem casos reais, dados sensíveis e com abertura de exploração alocados nestes fatores de armazenamentos,
+precisamos urgentemente um senso crítico em relação a segurança e proteção dos dados que armazenamentos em serviços de storage em cloud.
+
+- Restrinja os acessos indesejados aos seus dados armazenados.
+- Siga as orientações pelo provedor de serviço em relação a segurança e conformidade, é um ótimo passo para se prevenir.
+- Tenha certeza que dados sensíveis estejam bem seguros, para que não sejam "leakdos" por aí !!! XD
